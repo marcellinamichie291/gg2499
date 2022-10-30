@@ -1,0 +1,18 @@
+{
+  "name": "triangular-arbitrage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "binance-api-react-native": "^0.1.5",
+    "ccxt": "^2.0.58",
+    "decimal": "^0.0.2",
+    "decimal.js": "^10.4.2",
+    "node-binance-api": "^0.13.1"
+  }
+}
