@@ -100,7 +100,7 @@ const arbitrageBot = async() => {
 			}
 		}
 		
-		setTimeout(onTick, 10)
+		setTimeout(onTick, 5)
 	}
 	onTick()
 }
