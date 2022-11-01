@@ -25,7 +25,7 @@ function skipRealCurrency(Symbol) {
 		'KES', 'KHR', 'KMF', 'KRW', 'KWD', 'KZT', 
 		'LBP', 'LKR', 'LTL', 'LVL', 'LYD', 'MAD', 
 		'MDL', 'MGA', 'MKD', 'MMK', 'MOP', 'MUR', 
-		'MXN', 'MYR', 'TRY', 'RUB', 'STMX',
+		'MXN', 'MYR', 'TRY', 'RUB', 'STMX', 'UAH',
 	]
 	for(i = 0; i < symbolList.length; i++) {
 		if(Symbol.includes(symbolList[i])) {
